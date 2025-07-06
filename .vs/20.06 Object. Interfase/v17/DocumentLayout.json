@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\c#\\20.06 object. interfase\\20.06 object. interfase\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|solutionrelative:20.06 object. interfase\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\c#\\20.06 object. interfase\\20.06 object. interfase\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|solutionrelative:20.06 object. interfase\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\c#\\20.06 object. interfase\\20.06 object. interfase\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|solutionrelative:20.06 object. interfase\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\c#\\20.06 object. interfase\\20.06 object. interfase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|solutionrelative:20.06 object. interfase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\c#\\20.06 object. interfase\\20.06 object. interfase\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|solutionrelative:20.06 object. interfase\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D352D2DF-8854-4CBD-9526-880C20006B2A}|20.06 Object. Interfase\\20.06 Object. Interfase.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\c#\\20.06 object. interfase\\20.06 object. interfase\\20.06 object. interfase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "exercise1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\exercise1.cs",
+              "RelativeDocumentMoniker": "20.06 Object. Interfase\\exercise1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\exercise1.cs",
+              "RelativeToolTip": "20.06 Object. Interfase\\exercise1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:34:03.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "exercise3.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\exercise3.cs",
               "RelativeDocumentMoniker": "20.06 Object. Interfase\\exercise3.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\exercise3.cs",
               "RelativeToolTip": "20.06 Object. Interfase\\exercise3.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:09:54.973Z",
               "EditorCaption": ""
@@ -44,15 +57,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20.06 Object. Interfase",
+              "Title": "20.06 Object. Interfase.csproj",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\20.06 Object. Interfase.csproj",
               "RelativeDocumentMoniker": "20.06 Object. Interfase\\20.06 Object. Interfase.csproj",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\20.06 Object. Interfase.csproj",
               "RelativeToolTip": "20.06 Object. Interfase\\20.06 Object. Interfase.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-04T16:52:32.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T16:52:32.736Z"
             },
             {
               "$type": "Document",
@@ -65,19 +77,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T16:52:18.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\Program.cs",
-              "RelativeDocumentMoniker": "20.06 Object. Interfase\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\C#\\20.06 Object. Interfase\\20.06 Object. Interfase\\Program.cs",
-              "RelativeToolTip": "20.06 Object. Interfase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:47:59.47Z",
               "EditorCaption": ""
             }
           ]
